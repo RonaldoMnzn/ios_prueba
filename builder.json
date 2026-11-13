@@ -1,0 +1,22 @@
+{
+  "project": "ios_prueba",
+  "platform": "ios",
+  "github": {
+    "owner": "RonaldoMnzn",
+    "repo": "ios_prueba"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "path": "ios",
+    "bundleId": "com.prueba.iosPrueba"
+  },
+  "flutter": {
+    "version": "3.41.6",
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
